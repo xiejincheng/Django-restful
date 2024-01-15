@@ -1,0 +1,4 @@
+# object就是将要搜索的对象 sku
+{{ object.id }}
+{{ object.name }}
+{{ object.caption }}
